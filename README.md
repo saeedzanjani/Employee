@@ -1,3 +1,8 @@
+# About this app
+i created a React-Typescript app and i use Redux Thunk and react-Bootstrap in this project
+we have two list from server, one list of employees and another list absences
+we can serach by title of absences and search by absences start date and have pagination
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
