@@ -1,5 +1,6 @@
-# About this app
-i created a React-Typescript app and i use Redux Thunk and react-Bootstrap in this project
+# React Typescript Employee app
+This project was generated with React-Typescript and Redux.
+Project description: I created a React-Typescript app and i use Redux Thunk and react-Bootstrap in this project
 we have two list from server, one list of employees and another list absences
 we can serach by title of absences and search by absences start date and have pagination
 
